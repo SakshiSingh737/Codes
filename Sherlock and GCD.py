@@ -1,4 +1,5 @@
 #In this find the GCD of the given elements in list 'a' if its gcd is 1, it means there is no element which can divide all. Hence, it contains a subset
+# import math
 # Complete the solve function below.
 def solve(a):
     res = a[0]

@@ -29,7 +29,5 @@ def longestCommonSubsequence(a, b):
             i-=1
         else: 
             j-=1
-    for k in lcs:
-        print(k)
     return lcs
     
